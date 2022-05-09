@@ -2,6 +2,6 @@
 
 ```
 <html>
-  <ht>Meu primeiro arquivo em HTML<ht>
+  <h1>Meu primeiro arquivo em HTML<h1>
 </html>
 ```
